@@ -117,5 +117,4 @@ def upload_file():
     return render_template("project.html")
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
+
